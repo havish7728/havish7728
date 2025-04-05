@@ -3,8 +3,8 @@
 ## About Me
 - 🌱 I’m currently learning fundamentals of AWS
 - 👯 I’m looking to collaborate on Software/Website Development
-- 💬 Ask me about Python, AWS - S3, CDN, EC2, VPC, IAM, Lex
-- 📫 How to reach me: havish.gadey@gmail.com
+- 💬 Ask me about Python - Flask, Django, Java, SQL, NoSQL, MongoDB, AWS - S3, CDN, EC2, VPC, IAM, Lex
+- 📫 Reach me: havish.gadey@gmail.com
 
 ## GitHub Stats
 ![Havish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=havish7728&show_icons=true&theme=radical)
@@ -20,3 +20,4 @@
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/havish-gadey/)
 - [Twitter](https://x.com/havish_7)
+-[Instagram](https://www.instagram.com/havish_7k28/)
