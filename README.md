@@ -20,4 +20,4 @@
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/havish-gadey/)
 - [Twitter](https://x.com/havish_7)
--[Instagram](https://www.instagram.com/havish_7k28/)
+- [Instagram](https://www.instagram.com/havish_7k28/)
