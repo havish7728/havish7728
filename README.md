@@ -27,7 +27,7 @@
 </p>
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I built a chatbot with AWS Lex that can actually help you book hotels! 😄
+- ⚡ Fun fact: I speak fluent JSON… but only when I'm well-structured. 😄📦
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=havish7728&theme=gruvbox" alt="havish7728" /></p>
