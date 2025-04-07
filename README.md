@@ -10,7 +10,7 @@
 
 <h3> 🚀 A little about me... </h3>
 
-- 🔭 Currently building: **Cloud Cost Optimizer Dashboard**
+- 🔭 Currently building: **Financial Data Pipeline**
 - 🌱 Experience as: **Python Developer Intern @ CodTech IT Solutions** and **AWS Engineer Intern @ Immensphere**
 - 👯 Open to collaborate on: Backend & Cloud Projects (Flask/Django + AWS)
 - 🤖 Interested in: Cloud Engineering, Serverless Architectures, and Data Pipelines
